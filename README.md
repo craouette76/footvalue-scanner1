@@ -1,2 +1,7 @@
-# footvalue-scanner1
- FootValue Scanner - Value bets football
+# FootValue Scanner
+
+**Outil d’analyse de value bets football**
+
+Application en cours de construction...
+
+Version simplifiée en cours de déploiement.
